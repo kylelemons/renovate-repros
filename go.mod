@@ -2,7 +2,7 @@ module github.com/kylelemons/renovate-repros
 
 go 1.19
 
-require k8s.io/client-go v0.24.3
+require k8s.io/client-go/v11 v11.0.0+incompatible
 
 require (
 	github.com/go-logr/logr v1.2.0 // indirect
