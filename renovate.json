@@ -3,6 +3,7 @@
   "extends": [
     "config:base"
   ],
+  "masterIssue": true,
   "major": { "masterIssueApproval": true },
   "digest": { "masterIssueApproval": true }
 }
